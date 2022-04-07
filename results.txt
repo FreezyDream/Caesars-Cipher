@@ -1,0 +1,7 @@
+======================================================
+Give me a text that you want to encrypt: I love burgers
+Give me a number that you want to encrypt by: 79
+======================================================
+Your encrypted text: J mpwf cvshfst
+Your unencrypted text: I love burgers
+======================================================
